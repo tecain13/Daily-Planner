@@ -11,7 +11,7 @@ Repository Link:
 https://github.com/tecain13/Daily-Planner
 
 URL:
-
+https://tecain13.github.io/Daily-Planner/.
 
 ### Problem
 
